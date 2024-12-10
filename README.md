@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anima!
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently working with MERN adn python
+- 🌱 I’m currently working with MERN and python
 - ⚡ Fun fact: If I don't like something, I say "Sigh" and move on. Hala Madrid!
 
 <!---
